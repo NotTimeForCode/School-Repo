@@ -1,1 +1,1 @@
-Campus App test file
+Campus App test file vanhan tapahtuman katsominen
