@@ -1,2 +1,2 @@
 # School-Repo
-Kaikelle mitä amkissa pitää tehdä
+Kaikelle amkin Github tarpeille
